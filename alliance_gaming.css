@@ -1,0 +1,35 @@
+body {
+    background-color:#242424;
+}
+p {
+    color:white;
+}
+#containter {
+    
+    background-color:#005C5C;
+    width: 60%;
+    height: 100%;
+    margin: auto;
+    }
+    
+    
+#nav {
+    background-color:black;
+    height:3%;
+    width:100%;
+}
+nav {
+    color:white;
+}
+#team {
+    padding-left:10px;
+    
+}
+
+.content {
+    margin:auto;
+    border:solid 1px;
+    width: 70%;
+    height: 90%;
+    text-align:center;
+}
